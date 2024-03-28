@@ -1,0 +1,3 @@
+hashing all about algo map any object to intgaer number 
+hash table in python is dictunary 
+it allow us to search in O(1)
