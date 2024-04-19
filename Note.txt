@@ -1,1 +1,2 @@
-This folder encapsulates my solution and implementation for Dr. Mostafa Saad's Data Structure course. The course has been immensely valuable, offering a rich learning experience from which I have gained substantial insights and knowledge.
+This folder encapsulates my solution and implementation for Dr. Mostafa Saad's Data Structure course. The course has been immensely valuable,
+ offering a rich learning experience from which I have gained substantial insights and knowledge.
